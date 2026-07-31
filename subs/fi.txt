@@ -1,1 +1,1 @@
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=wnfl4wj.zenvorix.ir&path=%2Fnova-geo-psiphon-fi&sni=wnfl4wj.zenvorix.ir#2026-07-31%2000%3A20%20%F0%9F%87%AB%F0%9F%87%AE%20%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20(FI)
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=w12ztpj.xeravion.ir&path=%2Fnova-geo-psiphon-fi&sni=w12ztpj.xeravion.ir#2026-07-31%2023%3A16%20%F0%9F%87%AB%F0%9F%87%AE%20%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20(FI)

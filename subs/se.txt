@@ -1,1 +1,1 @@
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=qurdiju.xeravion.ir&path=%2Fnova-geo-psiphon-se&sni=qurdiju.xeravion.ir#2026-07-31%2023%3A19%20%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%20(SE)
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=oil46d0.xeravion.ir&path=%2Fnova-geo-psiphon-se&sni=oil46d0.xeravion.ir#2026-08-01%2016%3A16%20%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%20(SE)

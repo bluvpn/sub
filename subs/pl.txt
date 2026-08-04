@@ -1,1 +1,1 @@
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@masse.zenvorix.ir:443?encryption=none&type=ws&security=tls&host=ri5xaot.xeravion.ir&path=%2Fnova-geo-psiphon-pl&sni=ri5xaot.xeravion.ir#2026-08-03%2019%3A12%20PL%20%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86%20(PL)
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@masse.zenvorix.ir:443?encryption=none&type=ws&security=tls&host=zohv62n.xeravion.ir&path=%2Fnova-geo-psiphon-pl&sni=zohv62n.xeravion.ir#2026-08-04%2012%3A35%20PL%20%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86%20(PL)

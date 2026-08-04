@@ -1,2 +1,1 @@
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=fqbcvl8.zenvorix.ir&path=%2Fnova-geo-psiphon-dk&sni=fqbcvl8.zenvorix.ir#2026-08-04%2013%3A02%20DK%20%D8%AF%D8%A7%D9%86%D9%85%D8%A7%D8%B1%DA%A9%20(DK)
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=hd2o4b6.zenvorix.ir&path=%2Fnova-geo-psiphon-dk&sni=hd2o4b6.zenvorix.ir#2026-08-04%2013%3A02%20DK%20%D8%AF%D8%A7%D9%86%D9%85%D8%A7%D8%B1%DA%A9%20(DK)
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=nmkhdun.zenvorix.ir&path=%2Fnova-geo-psiphon-dk&sni=nmkhdun.zenvorix.ir#2026-08-04%2013%3A05%20DK%20%D8%AF%D8%A7%D9%86%D9%85%D8%A7%D8%B1%DA%A9%20(DK)

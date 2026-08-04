@@ -1,1 +1,2 @@
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=v6e2iyu.xeravion.ir&path=%2Fnova-geo-psiphon-se&sni=v6e2iyu.xeravion.ir#2026-08-04%2013%3A09%20%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%20(SE)
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=a6rizmo.xeravion.ir&path=%2Fnova-geo-psiphon-se&sni=a6rizmo.xeravion.ir#2026-08-04%2019%3A09%20%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%20(SE)
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=odi0kux.zenvorix.ir&path=%2Fnova-geo-psiphon-se&sni=odi0kux.zenvorix.ir#2026-08-04%2019%3A09%20%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%20(SE)

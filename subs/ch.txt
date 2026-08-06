@@ -1,2 +1,2 @@
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=mwqnj7j.xeravion.ir&path=%2Fnova-geo-psiphon-ch&sni=mwqnj7j.xeravion.ir#2026-08-06%2013%3A11%20CH%20%D8%B3%D9%88%DB%8C%DB%8C%D8%B3%20(CH)
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=lryrjr7.zenvorix.ir&path=%2Fnova-geo-psiphon-ch&sni=lryrjr7.zenvorix.ir#2026-08-06%2013%3A11%20CH%20%D8%B3%D9%88%DB%8C%DB%8C%D8%B3%20(CH)
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=ldfrek5.xeravion.ir&path=%2Fnova-geo-psiphon-ch&sni=ldfrek5.xeravion.ir#2026-08-06%2014%3A51%20CH%20%D8%B3%D9%88%DB%8C%DB%8C%D8%B3%20(CH)
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?encryption=none&type=ws&security=tls&host=5vjkmri.zenvorix.ir&path=%2Fnova-geo-psiphon-ch&sni=5vjkmri.zenvorix.ir#2026-08-06%2014%3A51%20CH%20%D8%B3%D9%88%DB%8C%DB%8C%D8%B3%20(CH)
